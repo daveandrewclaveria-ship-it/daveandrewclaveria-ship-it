@@ -14,14 +14,14 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
 
 🖥️**Skill Sets**
 
-  -**Programming:** Java, JavaScript<br>
-  -**Databases:** SQL<br>
-  -**Tools:** Lucidchart, Eclipse, Visual Studio Code, Intellij IDEA, Figma, HTML, CSS
+  - **Programming:** Java, JavaScript<br>
+  - **Databases:** SQL<br>
+  - **Tools:** Lucidchart, Eclipse, Visual Studio Code, Intellij IDEA, Figma, HTML, CSS
 
 📧**Let's Connect!**
 
-  -**LinkedIn:** [Dave Andrew Claveria](https://www.linkedin.com/in/dave-andrew-claveria-440154397/https://www.linkedin.com/in/dave-andrew-claveria-440154397/)<br>
-  -**Email:** [daveandrewclaveria15@gmail.com](mailto:daveandrewclaveria15@gmail.com)<br>
+  - **LinkedIn:** [Dave Andrew Claveria](https://www.linkedin.com/in/dave-andrew-claveria-440154397/https://www.linkedin.com/in/dave-andrew-claveria-440154397/)<br>
+  - **Email:** [daveandrewclaveria15@gmail.com](mailto:daveandrewclaveria15@gmail.com)<br>
 
 <!--
 **daveandrewclaveria-ship-it/daveandrewclaveria-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
