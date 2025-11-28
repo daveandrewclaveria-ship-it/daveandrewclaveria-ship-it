@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
 
 📧**Let's Connect!**
 
-  - **LinkedIn:** [Dave Andrew Claveria](https://www.linkedin.com/in/dave-andrew-claveria-440154397/https://www.linkedin.com/in/dave-andrew-claveria-440154397/)<br>
+  - **LinkedIn:** [Dave Andrew Claveria](www.linkedin.com/in/dave-andrew-claveria-440154397/https://www.linkedin.com/in/dave-andrew-claveria-440154397/)<br>
   - **Email:** [daveandrewclaveria15@gmail.com](mailto:daveandrewclaveria15@gmail.com)<br>
 
 <!--
