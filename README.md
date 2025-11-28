@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Dave Andrew Claveria👋
 
 <!--
 **daveandrewclaveria-ship-it/daveandrewclaveria-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
