@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
 
 🎓 Education
 
-  - **BS Information Technology**
+  - **BS Information Technology** <br>
     New Era University
     2024-Present
 
