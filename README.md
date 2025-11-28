@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! I am a BS Information Technology student committed to continuous learning and growth. I focus on programming, database management, and exploring tools that strengthen my technical skills. My goal is to build expertise that prepares me to contribute effectively in the technology industry.
 
-🎓 Education
+🎓 **Education**
 
   - **BS Information Technology** <br>
     New Era University <br>
     2024-Present
 
-📜 Certifications
+📜 **Certifications**
 
   - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c236dba5a7c14aeabfb2e6e1299d036e)
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
 
 📧**Let's Connect!**
 
-  - **LinkedIn:** [Dave Andrew Claveria](www.linkedin.com/in/dave-andrew-claveria-440154397/https://www.linkedin.com/in/dave-andrew-claveria-440154397)<br>
+  - **LinkedIn:** [Dave Andrew Claveria](www.linkedin.com/in/dave-andrew-claveria-440154397)<br>
   - **Email:** [daveandrewclaveria15@gmail.com](mailto:daveandrewclaveria15@gmail.com)<br>
 
 <!--
