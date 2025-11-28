@@ -1,5 +1,6 @@
 ## Hi there, I'm Dave Andrew Claveria👋
 
+Welcome to my GitHub profile! I am a BS Information Technology student committed to continuous learning and growth. I focus on programming, database management, and exploring tools that strengthen my technical skills. My goal is to build expertise that prepares me to contribute effectively in the technology industry.
 <!--
 **daveandrewclaveria-ship-it/daveandrewclaveria-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
